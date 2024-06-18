@@ -12,14 +12,14 @@ This repository contains my exploration of the open-source project "Shopping-Mar
 
 ## Commands Used
 
-- `git clone <repository-url>`
-- `git remote add upstream <upstream-url>`
-- `git checkout -b <branch-name>`
+- `git clone https://github.com/Elizaphan88/Shopping-Mart.git`
+- `git remote add upstream https://github.com/janeezy/Shopping-Mart.git`
+- `git checkout -b feature-update`
 - `git add .`
 - `git commit -m "Commit message"`
-- `git push origin <branch-name>`
-- `git merge <branch-name>`
-- `git checkout <branch-name>`
+- `git push -u origin main`
+- `git merge feature-update`
+- `git checkout -b resolve-conflict`
 
 ## Challenges Faced
 
